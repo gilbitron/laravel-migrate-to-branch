@@ -37,5 +37,4 @@ you can use the `--dry-run` flag.
 
 ## Credits
 
-Laravel "migrate:to-branch" was created by [Gilbert Pellegrom](https://gilbert.pellegrom.me) from
-[Dev7studios](https://dev7studios.co). Released under the MIT license.
+Laravel "migrate:to-branch" was created by [Gilbert Pellegrom](https://gilbitron.me) from [Dev7studios](https://dev7studios.co). Released under the MIT license.
